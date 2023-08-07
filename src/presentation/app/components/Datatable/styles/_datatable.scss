@@ -1,0 +1,85 @@
+.rdt_Table {
+  background-color: transparent !important;
+  color: black;
+  border: none;
+}
+
+.rdt_TableRow:hover .actions-hidden {
+  display: flex !important;
+  position: absolute;
+  right: 5%;
+}
+
+.rdt_TableHeadRow {
+  background-color: transparent !important;
+  border-bottom-style: dashed !important;
+  border-bottom-color: transparent !important;
+  color: black;
+}
+
+.actions-hidden {
+  display: none !important;
+  background-color: rgb(218, 218, 218) !important;
+  border-radius: 50px;
+}
+
+.rdt_TableRow {
+  background-color: white !important;
+  color: black;
+  border-bottom-color: transparent !important;
+  border-bottom: none !important;
+  margin-top: 5px;
+  border-radius: 8px;
+}
+
+.rdt_TableCol {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_TableCol_Sortable {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_TableCell {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_TableHeader {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_TableFooter {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_TableHead {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_TableBody {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_ExpanderRow {
+  background-color: transparent !important;
+  color: black;
+}
+
+.rdt_Pagination {
+  // background-color: transparent !important;
+  // color: black !important;
+  // fill: #000000 !important;
+  // border-top-color: red !important;
+  border-top: none !important;
+}
+
+// .rdt_Pagination button {
+//   fill: #000000 !important;
+// }
